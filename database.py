@@ -1,0 +1,1 @@
+tasks = [{'id': 1, 'name': 'lavar los platos'}, {'id': 2, 'name': 'Pasear al perro'}, {'id': 3, 'name': 'Limpiar el cuarto'}]
